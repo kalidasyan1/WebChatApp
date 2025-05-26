@@ -49,6 +49,17 @@ This is a simple real-time chat application built with **Spring Boot**, **WebSoc
 
 ---
 
+## 📸 Screenshots
+Client1:
+<img src="https://github.com/user-attachments/assets/cd9a9ab4-6f34-45c9-90d6-6260e7374a97" width="600" alt="Client1"/>
+
+Client2:
+<img src="https://github.com/user-attachments/assets/248e80a1-9b75-4f56-8490-d044a4f08e6f" width="600" alt="Client2"/>
+
+Client3:
+<img src="https://github.com/user-attachments/assets/d21e921d-2cac-4a52-ada0-fd246dbec383" width="600" alt="Client3"/>
+
+
 ## 🌐 WebSocket Details
 
 - **Endpoint**: `ws://localhost:8080/chat`
